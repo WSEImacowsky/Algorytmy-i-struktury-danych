@@ -1,0 +1,2 @@
+segment tree
+link: http://www.algorytm.org/algorytmy-grafowe/przeszukiwanie-grafu-wszerz-bfs-i-w-glab-dfs.html
